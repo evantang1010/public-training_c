@@ -1,0 +1,13 @@
+/*C2*/SET SCHEMA PUBLIC
+create table if not exists company (id int not null, name varchar(45), primary key (id))
+DISCONNECT
+/*C3*/SET SCHEMA PUBLIC
+create table if not exists company (id int not null, name varchar(45), primary key (id))
+INSERT INTO COMPANY VALUES(1,'Hazelcast')
+COMMIT
+INSERT INTO COMPANY VALUES(2,'Google')
+COMMIT
+DISCONNECT
+/*C4*/SET SCHEMA PUBLIC
+create table if not exists company (id int not null, name varchar(45), primary key (id))
+DISCONNECT

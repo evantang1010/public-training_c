@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hazelcast:hazelcast:tests:3.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hazelcast/hazelcast/3.6/2013a3c380d872c3b47ca664baaa1bfd9c2b7b04/hazelcast-3.6-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hazelcast/hazelcast/3.6/701f3c58b080e0410315cee353e364f5495263b4/hazelcast-3.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hazelcast/hazelcast/3.6/258f0ffd3bac82ad7df164b4543af044c16238de/hazelcast-3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
